@@ -1,0 +1,9 @@
+email =  "-"
+username = "-"
+global_name = "-"
+password = "-"
+day = 10
+month = "март"
+year = "2000 "
+invites_link = ["https://discord.gg/cBHB47uU"]
+proxy = "103.53.185.8:8088" # your_proxy_address:port
